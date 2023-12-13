@@ -4,7 +4,7 @@ I'm Kaloyan Iliev, and I'm passionate about database administration and analysis
 # About Me
 
 - 🌱 I'm driven by a strong desire to work in database administration and analysis.
-- 💻 I have a basic understanding of Python programming and am actively exploring and expanding my knowledge.
+- 💻 I have a basic understanding of Python programming and I am actively exploring and expanding my knowledge.
 - 🔍 I'm interested in connecting with like-minded individuals and exploring new technologies in the database and Python ecosystem.
 
 ## Learning Focus:
